@@ -88,7 +88,7 @@ class _CalculatorState extends State<Calculator> {
             child: Text(
               userinp,
               style: TextStyle(
-                fontSize: 32,
+                fontSize: 33,
                 color: Colors.white,
               ),
             ),
